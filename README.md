@@ -1,5 +1,57 @@
-# User-Management-Dashboard3
-https://papaya-eclair-9e924d.netlify.app/
+# User-Management-Dashboard3 :- https://papaya-eclair-9e924d.netlify.app/
+
+
+
+# 👥 User Management Dashboard – React.js
+
+A simple User Management Dashboard built with React.js, which allows users to be **fetched, added, edited, and deleted** in real-time using public API (`reqres.in`).
+
+## 🚀 Live Demo
+
+🔗 [Click here to view the deployed app](https://papaya-eclair-9e924d.netlify.app/)
+
+## 📸 Features
+
+- ✅ Fetch users from API and display in a table
+- ✅ Add new user with name & job
+- ✅ Edit existing user details
+- ✅ Delete user from list (simulated)
+- ✅ Recent user preview
+- ✅ Avatar image & email auto-generated
+- ✅ Responsive design using Tailwind CSS
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **JavaScript (ES6)**
+- **Fetch API**
+- **Tailwind CSS**
+- **Reqres.in** (Free public API for testing)
+
+## 📦 Folder Structure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## React + Vite
 
